@@ -1,5 +1,11 @@
 # LifeLedger — Personal Document, Warranty and Obligation Management System
 
+## Project Documentation
+
+📄 [View Project Report](docs/LifeLedger_Report.pdf)
+
+🎥 [View Demo Video](videodemo/Video_Presentation.mp4)
+
 [![Java](https://img.shields.io/badge/Java-21%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![JavaFX](https://img.shields.io/badge/JavaFX-21-blue?style=for-the-badge&logo=java&logoColor=white)](https://openjfx.io/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
